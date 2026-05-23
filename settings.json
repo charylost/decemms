@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "const": true,
+        "new": true,
+        "console.log(\"JS": true,
+        "py": true
+    }
+}
